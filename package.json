@@ -1,0 +1,20 @@
+{
+  "name": "nodetesting",
+  "version": "1.0.0",
+  "description": "nauka nodea",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo 'czesc to ja'",
+    "dev": "parcel src/index.html",
+    "addTwoNumbers": "node addTwoNumbers 10 10",
+    "addTwoNumbers10and10": "node addTwoNumbers 10 10"
+  },
+  "author": "Magdalena Wiecek",
+  "license": "ISC",
+  "dependencies": {
+    "chart.js": "^4.4.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.10.0"
+  }
+}
